@@ -15,9 +15,9 @@ Stephen Ogada is a Bioinformatician and Evolutionary and Population geneticist w
 
 Professional Work
 ======
-Project Coordinator
-Technical Project Coordinator
-Research Assistant
+- Project Coordinator
+- Technical Project Coordinator
+- Research Assistant
 [Standard Newspaper Interview](https://www.standardmedia.co.ke/health/health-science/article/2001333414/jkuat-study-to-revive-hope-for-abandoned-quail-farming "Standard Newspaper Interview")
 
 
