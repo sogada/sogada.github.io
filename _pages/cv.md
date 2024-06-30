@@ -62,3 +62,9 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Full resume
+======
+[Stephen_Ogada_CV](https://github.com/sogada/files/ogada_stephen_cv.pdf)
+
+
