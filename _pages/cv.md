@@ -65,6 +65,6 @@ Service and leadership
 
 Full resume
 ======
-[Stephen_Ogada_CV](https://github.com/sogada/files/ogada_stephen_cv.pdf)
+[Stephen_Ogada_CV](https://github.com/sogada/sogada.github.io/blob/master/files/ogada_stephen_cv.pdf)
 
 
