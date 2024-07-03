@@ -1,6 +1,7 @@
-
-Metagenomics analysis of livestock microbiota 
-======
+---
+title: "Metagenomics analysis of livestock microbiota"
+collection: pages
+---
 
 Chicken and camels.
 
