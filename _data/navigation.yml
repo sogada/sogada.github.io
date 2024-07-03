@@ -21,8 +21,8 @@ main:
   - title: "Work"
     url: /work-summary/
 
-  - title: "Blog"
-    url: /year-archive/
+# - title: "Blog"
+#   url: /year-archive/
     
   - title: "Media"
     url: /_pages/markdown/
