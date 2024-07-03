@@ -17,6 +17,12 @@ main:
     
   - title: "CV"
     url: /files/ogada_stephen_cv.pdf
+
+  - title: "Work"
+    url: /work-summary/
+
+  - title: "Blog"
+    url: /year-archive/
     
   - title: "Media"
     url: /_pages/markdown/
