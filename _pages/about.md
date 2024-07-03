@@ -18,5 +18,5 @@ Professional Work
 - Project Coordinator
 - Technical Project Coordinator
 - Research Assistant
-- Monitoring,Evaluation & Learning
+- Monitoring, Evaluation & Learning
 
