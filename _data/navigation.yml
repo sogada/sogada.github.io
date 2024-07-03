@@ -3,20 +3,20 @@ main:
   - title: "Publications"
     url: "https://scholar.google.com/citations?user=0cVkc2gAAAAJ&hl=en"
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Teaching"
+  - title: "Research"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
     url: /files/ogada_stephen_cv.pdf
     
-  - title: "Guide"
+  - title: "Media"
     url: /markdown/
