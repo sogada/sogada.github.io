@@ -1,5 +1,5 @@
 ---
-title: "Professional Summary"
+title: "Project Summary"
 collection: pages
 ---
 
@@ -10,5 +10,9 @@ List of projects that I've worked in different capacities.
 - Genomic and Pathogenic Characteristics of Virulent Newcastle Disease Virus Isolated from Chicken in Live Bird Markets and Backyard Flocks in Kenya.
 - Directed Breeding Programs for Improved Poultry Livestock by Genetic Bioinformatics Research and Development in Kenya (BIRD).
 
+Workshops
+======
 
+- Genome-Wide Association Studies in Human and Agricultural Biotechnology Workshop (2022). Organized by Jomo Kenyatta University of A griculture and Technology and Hasselt University.
+- Introduction to R programming for biologists (2024). Organized by Jomo Kenyatta University of A griculture and Technology and Hasselt University. 
 
