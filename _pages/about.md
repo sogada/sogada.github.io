@@ -22,3 +22,17 @@ Professional Work
 - Project Management
 - Monitoring, Evaluation & Learning
 
+Skills
+======
+- Bash scripting
+- R programming
+- Python programming
+- Wet lab and molecular biology techniques (Sample collection and storage, DNA/RNA extraction, PCR, and cDNA synthesis)
+- Scientific writing, presentation, and communication skills
+
+
+
+
+
+
+
