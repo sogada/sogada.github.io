@@ -37,7 +37,8 @@ author:
   orcid            : "https://orcid.org/ 0000-0001-8292-7085"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1PI4ccw1EFIkc/bibliography/public/"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Stephen-Ogada-2"
+  LinkedIn         : "linkedin.com/in/stephen-ogada-685257155"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
