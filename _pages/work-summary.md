@@ -14,6 +14,6 @@ Workshops
 ======
 
 Below is a list of workshops that I played a key role in organizing:
-- Genome-Wide Association Studies in Human and Agricultural Biotechnology Workshop (2022). Organized by Jomo Kenyatta University of A griculture and Technology and Hasselt University.
-- Introduction to R programming for biologists (2024). Organized by Jomo Kenyatta University of A griculture and Technology and Hasselt University. 
+- Genome-Wide Association Studies in Human and Agricultural Biotechnology Workshop (2022). Organized by Jomo Kenyatta University of Agriculture and Technology and Hasselt University.
+- Introduction to R programming for biologists (2024). Organized by Jomo Kenyatta University of Agriculture and Technology and Hasselt University. 
 
