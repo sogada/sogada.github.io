@@ -15,8 +15,10 @@ Stephen Ogada is a Bioinformatician and Evolutionary and Population geneticist w
 
 Professional Work
 ======
-- Project Coordinator
-- Technical Project Coordinator
-- Research Assistant
+- Teaching
+- Capacity building
+- Research Assistance
+- Project Coordination
+- Project Management
 - Monitoring, Evaluation & Learning
 
