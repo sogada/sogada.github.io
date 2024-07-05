@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=0cVkc2gAAAAJ&hl=en"
+  #googlescholar    : #"https://scholar.google.com/citations?user=0cVkc2gAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/ 0000-0001-8292-7085"
+  orcid            : #"https://orcid.org/ 0000-0001-8292-7085"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1PI4ccw1EFIkc/bibliography/public/"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/myncbi/1PI4ccw1EFIkc/bibliography/public/"
   researchgate     : "https://www.researchgate.net/profile/Stephen-Ogada-2"
 
   # Repositories and software development
