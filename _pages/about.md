@@ -23,7 +23,7 @@ Professional work
 - Project Management
 - Monitoring, Evaluation & Learning
 
-Skills
+Skills and competencies
 ======
 - Bash scripting
 - R programming
