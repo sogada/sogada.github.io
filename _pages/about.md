@@ -12,8 +12,9 @@ I am also passionate about projects and programs, how to make them run efficient
 
 Academic work and research
 ======
-Stephen Ogada is a Bioinformatician and Evolutionary and Population geneticist with a Ph.D. in Biotechnology from the Jomo Kenyatta University of Agriculture and Technology, Kenya. His research interests lie in the intersection of population genetics, evolutionary biology, and conservation genetics of plants, indigenous livestock, and wildlife in developing countries. He is particularly interested in understanding the genetic basis of population diversity, demographic history, genetic drift, and gene flow effects on evolution and using genetic data to conserve endangered species. Stephen is also interested in genomic surveillance, antimicrobial resistance, and the One Health approach. Using genetic tools to study emerging and re-emerging pathogens that cause livestock, wildlife, and human diseases. In addition to research, Stephen is also a reviewer for the Journal of Agriculture, Science, and Technology.
-My role in teaching started as graduate teaching assisant during my Masters and PhD and later a lecturer responsible for molecular biotechnology classes.
+As a bioinformatician and specialist in evolutionary and population genetics, I hold a Ph.D. in Biotechnology from Jomo Kenyatta University of Agriculture and Technology in Kenya. My research interests lie at the intersection of population genetics, evolutionary biology, and conservation genetics, focusing on plants, indigenous livestock, and wildlife in developing countries. I am particularly interested in understanding the genetic basis of population diversity, demographic history, genetic drift, and gene flow effects on evolution, as well as using genetic data to conserve endangered species. Additionally, I am interested in genomic surveillance, antimicrobial resistance, and the One Health approach, utilizing genetic tools to study emerging and re-emerging pathogens affecting livestock, wildlife, and human health.
+
+Beyond my research, I serve as a reviewer for the Journal of Agriculture, Science, and Technology. My teaching career began as a graduate teaching assistant during my Master’s and Ph.D. studies, and I later became a lecturer responsible for molecular biotechnology classes.
 
 Professional work
 ======
