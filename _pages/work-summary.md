@@ -3,7 +3,7 @@ title: "Project Summary"
 collection: pages
 ---
 
-I have worked on various projects in different capacities, including as a project coordinator, project manager, data analyst, and research assistant. Below is a list of these projects:
+I have worked on various projects in different capacities, including as a project coordinator, project manager, data analyst, and research assistant. My specific contributions to each project are detailed in my curriculum vitae. Below is a list of these projects:
 - Phenotypic and morphometric differentiation of indigenous chickens from Kenya and other tropical countries augments perspectives for genetic resource improvement and conservation (2016)
 - Genetic Evidence of Middle East Respiratory Syndrome Coronavirus (MERS-Cov) and Widespread Seroprevalence among Camels in Kenya (2017).
 - Molecular detection of viruses in Kenyan bats and discovery of novel astroviruses, caliciviruses and rotaviruses (2016).
