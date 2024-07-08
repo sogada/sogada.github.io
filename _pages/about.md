@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a broad interest in data analytics, bioinformatics and evolutionary genomics. During my graduate studies, I concentrated on the population and evolutionary genetics of plants, indigenous livestock, and endangered wildlife. My research focused on understanding the genetic basis of population diversity, demographic history, and the effects of genetic drift and gene flow on evolution. Overtime, I've developed expertise in other omics approaches such as transcriptomics and metagenomics.
+I have a broad interest in data analytics and bioinformatics applications in evolutionary genomics and One Health. During my graduate studies, I concentrated on the population and evolutionary genetics of plants, indigenous livestock, and endangered wildlife. My research focused on understanding the genetic basis of population diversity, demographic history, and the effects of genetic drift and gene flow on evolution. Overtime, I've developed expertise in other omics approaches such as transcriptomics and metagenomics.
 I am also passionate about projects and programs, how to make them run efficiently and effectively achieving their goals and objectives in the end.
 
 Academic work and research
