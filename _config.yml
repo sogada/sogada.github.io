@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Stephen Ogada"
-title_separator          : "-"
-name                     : &name "Stephen Ogada"
+title                    : "Home"
+title_separator          : #"-"
+name                     : &name "Home"
 description              : &description "personal description"
 url                      : https://sogada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
