@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![illustration of dna](/images/dna1.jpg){: .align-right width="300px"}
+![illustration of dna](/images/dna.jpg){: .align-right width="300px"}
 I have a broad interest in data analytics, molecular biology and bioinformatics applications in evolutionary genomics and One Health. Over time, I've developed expertise in other omics approaches such as transcriptomics and metagenomics.
 I am also passionate about projects and programs, how to make them run efficiently and effectively achieving their goals and objectives in the end.
 
