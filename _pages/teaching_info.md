@@ -7,12 +7,12 @@ redirect_from:
   - "/teaching_info.html"
 ---
 
-##Genomic surveillance and One Health
+## Genomic surveillance and One Health
 ======
 Chicken and camels.
 
 
-##Evolutionary genomics of livestock and wildlife
+## Evolutionary genomics of livestock and wildlife
 ======
 
 Indigenous chicken and wild harlequin quails
