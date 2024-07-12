@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+permalink: /teaching_info/
 title: "Research Interests"
 author_profile: true
 redirect_from: 
