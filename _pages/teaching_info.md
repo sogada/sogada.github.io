@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /_pages/teaching_info/
 title: "Research Interests"
 author_profile: true
 redirect_from: 
