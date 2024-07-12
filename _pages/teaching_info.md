@@ -7,7 +7,6 @@ redirect_from:
   - "/teaching_info.html"
 ---
 Here' a list of my research interests.
-
 ## Genomic surveillance and One Health
 Chicken and camels.
 
