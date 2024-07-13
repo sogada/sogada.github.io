@@ -24,7 +24,7 @@ Beyond my research, I teach and serve as a reviewer for the Journal of Agricultu
 - Capacity building
 - Project Coordination
 - Project Management
-- Monitoring, Evaluation & Learning
+- Monitoring, Evaluation, Research & Learning
 
 ## Skills and competencies
 - Bash scripting
