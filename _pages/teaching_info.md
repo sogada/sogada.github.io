@@ -6,7 +6,8 @@ redirect_from:
   - "/teaching_info/"
   - "/teaching_info.html"
 ---
-Here' a list of my research interests.
+Here are my research interests across multiple disciplines, reflecting my dedication to advancing scientific knowledge and enhancing health and agricultural outcomes in diverse sectors.
+
 ## Genomic surveillance and One Health
 Metagenomics characterization of gut microbiomes in poultry and camels.
 
