@@ -21,7 +21,7 @@ Development of robust monitoring, evaluation, research and learning systems. Imp
 - Participatory Approaches
 - Learning and Adaptive Management
 - Contextual Factors
-- Capacity Building
+- Capacity Building and Strengthening
 - Ethics and Accountability
 - Integration of MERL into Program Design
 - Policy and Practice
