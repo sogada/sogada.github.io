@@ -18,7 +18,7 @@ Below is a list of workshops that I played a key role in organizing:
 - Introduction to R programming for biologists (2024). Organized by Jomo Kenyatta University of Agriculture and Technology, Kenya and Hasselt University, Belgium.
 
 ## Consulting 
-- Bioinformatics analysis consultation in the genomics of Doum palm project [Doum Palm publication](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.762202/full)
+- Bioinformatics analysis and consultation in the genomics of Doum palm project [Doum Palm publication](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.762202/full)
 - Bioinformatics consulting in the transcriptome Analysis of Macrophytes in response to Ammonium nitrogen stress [Submerged macrophytes publication](https://www.mdpi.com/2223-7747/12/22/3875)
-- Soil metagenomics analysis (*On-going*)
+- Soil metagenomics analysis and consultation (*On-going*)
 
