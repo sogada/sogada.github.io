@@ -1,5 +1,5 @@
 ---
-title: "Professional Work Summary"
+title: "Professional work summary"
 collection: pages
 ---
 Here is a summary of my professional work.
