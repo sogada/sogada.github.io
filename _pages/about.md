@@ -23,7 +23,7 @@ Beyond my research, I teach and serve as a reviewer for the Journal of Agricultu
 ## Professional work and competencies
 - Project Coordination
 - Project Management
-- Capacity Building and Development
+- Capacity Building and Strengthening
 - Monitoring, Evaluation, Research & Learning
 - Pharmaceutical Marketing
 
