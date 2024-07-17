@@ -18,5 +18,5 @@ Below is a list of workshops that I played a key role in organizing:
 - Introduction to R programming for biologists (2024). Organized by Jomo Kenyatta University of Agriculture and Technology, Kenya and Hasselt University, Belgium.
 
 ## Consulting 
-- Bioinformatics analysis consultation in Doum palm project 
+- Bioinformatics analysis consultation in Doum palm project [Doum Palm publication](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.762202/full)
 
