@@ -36,7 +36,7 @@ Beyond my research, I teach and serve as a reviewer for the Journal of Agricultu
 - Visual communication (Professional photography & videography)
 
 ## News
-### Current project
+### Current projects
 - Soil metagenomics (*On-going*)
 
 
