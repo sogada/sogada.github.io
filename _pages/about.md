@@ -18,7 +18,7 @@ As a molecular biologist and bioinformatics specialist in evolutionary and popul
 
 Looking ahead, my passion for population genetics, evolutionary biology, and conservation genetics continues to drive my research. I am particularly interested in applying these insights to plants, indigenous livestock, and wildlife conservation in developing countries. My pursuits include investigating the genetic mechanisms shaping population diversity, demographic histories, and the influences of genetic drift and gene flow on evolution. Furthermore, I am dedicated to leveraging genomic tools to advance genomic surveillance, particularly in studying antimicrobial resistance and adopting a One Health approach. These efforts aim to address emerging and re-emerging pathogens impacting livestock, wildlife, and human health.
 
-Beyond my research, I teach and serve as a reviewer for the Journal of Agriculture, Science, and Technology. My teaching career began as a graduate teaching assistant during my Master’s and Ph.D. studies, and I later became a lecturer responsible for molecular biotechnology classes.
+Beyond my research, I teach and serve as a reviewer for the Journal of Agriculture, Science, and Technology. My teaching career began as a graduate teaching assistant during my Master’s and Ph.D. studies, and I later became a lecturer responsible for molecular biotechnology classes at the Jomo Kenyatta University of Agriculture and Technology.
 
 ## Professional work and competencies
 - Project Coordination
