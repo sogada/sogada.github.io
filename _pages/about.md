@@ -37,7 +37,7 @@ Beyond my research, I teach and serve as a reviewer for the Journal of Agricultu
 
 ## News
 ### Current projects
-- Soil metagenomics (*On-going*)
+- Bioinformatics analysis of soil metagenomics data (*On-going*)
 
 
 
