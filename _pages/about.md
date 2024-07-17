@@ -20,22 +20,24 @@ Looking ahead, my passion for population genetics, evolutionary biology, and con
 
 Beyond my research, I teach and serve as a reviewer for the Journal of Agriculture, Science, and Technology. My teaching career began as a graduate teaching assistant during my Master’s and Ph.D. studies, and I later became a lecturer responsible for molecular biotechnology classes.
 
-## Professional work
-- Pharmaceutical medical representative
-- Capacity building
+## Professional work and competencies
 - Project Coordination
 - Project Management
+- Capacity Building and Development
 - Monitoring, Evaluation, Research & Learning
+- Pharmaceutical Marketing
 
-## Skills and competencies
+## Technical skills
 - Linux/Shell scripting
 - R programming
 - Python programming
 - Wet lab and molecular biology techniques (Sample collection and storage, DNA/RNA extraction, PCR, and cDNA synthesis)
-- Scientific writing, presentation, and communication skills
+- Scientific writing, presentation, and communication
+- Visual communication (Professional photography & videography)
 
 ## News
-- Current project: Soil metagenomics
+### Current project
+- Soil metagenomics
 
 
 
