@@ -28,12 +28,14 @@ Beyond my research, I teach and serve as a reviewer for the Journal of Agricultu
 - Monitoring, Evaluation, Research & Learning
 
 ## Skills and competencies
-- Bash scripting
+- Linux/Shell scripting
 - R programming
 - Python programming
 - Wet lab and molecular biology techniques (Sample collection and storage, DNA/RNA extraction, PCR, and cDNA synthesis)
 - Scientific writing, presentation, and communication skills
 
+## News
+- Current project: Soil metagenomics
 
 
 
