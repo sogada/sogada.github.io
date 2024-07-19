@@ -12,7 +12,7 @@ I have worked on various research projects and programs in different capacities,
 - Genomic and Pathogenic Characteristics of Virulent Newcastle Disease Virus Isolated from Chicken in Live Bird Markets and Backyard Flocks in Kenya (2020).
 - Directed Breeding Programs for Improved Poultry Livestock by Genetic Bioinformatics Research and Development (BIRD) in Kenya (2022).
 
-## Consulting 
+## Consultancy 
 - Bioinformatics analysis and consultation in the genomics of Doum palm project. Publication: [Doum Palm genomics](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.762202/full)
 - Bioinformatics consulting in the RNA-Seq Analysis of Macrophytes in response to Ammonium nitrogen stress project. Publication: [Submerged macrophytes transcriptomics](https://www.mdpi.com/2223-7747/12/22/3875)
 - Soil metagenomics project analysis and consultation (*On-going*)
