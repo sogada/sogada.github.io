@@ -14,7 +14,7 @@ Metagenomics characterization of gut microbiomes in poultry and camels.
 ## Evolutionary genomics of livestock and wildlife
 Genetic diversity and demographic history of indigenous chicken, indigenous Galla goats, domestic Japanese and wild harlequin quails.
 
-## Climate smart agriculture
+## Climate-Smart livestock production
 Heat tolerance studies on livestock in arid and semi-arid areas.
 
 ## MERL systems research
