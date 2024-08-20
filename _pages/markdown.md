@@ -9,5 +9,6 @@ Summary of my work covered by media or other sources.
 ## Posters
 Project posters 
 
-## Others
-Appearance in magazines or articles etc.
+## Photos
+![me](/images/steve-quail-pic.jpg){: .align-right width="300px"}
+![ppt](/images/omosh.png){: .align-right width="300px"}
