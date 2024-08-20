@@ -14,7 +14,8 @@ Beyond the lab, I excel in steering projects and programs toward success by desi
 
 ## Academic work and research
 ![illustration of me](/images/steve-quail-pic.jpg){: .align-right width="300px"}
-![me](/images/omosh.png){: .align-left width="300px"}
+<br>
+![me](/images/omosh.png){: .align-right width="300px"}
 
 As a molecular biologist and bioinformatics specialist in evolutionary and population genetics, I earned my Ph.D. in Biotechnology from Jomo Kenyatta University of Agriculture and Technology in Kenya. Throughout my graduate studies, I focused on the population and evolutionary genetics of indigenous livestock and endangered wildlife. My research examined the genetic basis of population diversity, demographic history, and the impacts of genetic drift and gene flow on evolutionary processes in quails. This work was integral to a broader initiative aimed at developing complementary and sustainable protein sources.
 
