@@ -11,5 +11,5 @@ Project posters
 
 ## Photos
 ![me](/images/steve-quail-pic.jpg){: .align-right width="300px"}
-![ppt](/images/omosh.png){: .align-right width="300px"}
 ![ppt2](/images/steve1.png){: .align-left width="300px"}
+![ppt](/images/omosh.png){: .align-right width="300px"}
