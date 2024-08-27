@@ -4,7 +4,7 @@ collection: pages
 ---
 Here is a summary of my professional work.
 
-## Current research projects
+## Current projects
 **Dromedary camel metagenomics:** Microbiome profiling of dromedary camels of Kenya to detect bacteria and viruses that are present.
 
 ## Consultancy 
@@ -12,7 +12,7 @@ Here is a summary of my professional work.
 - Bioinformatics consulting in the RNA-Seq Analysis of Macrophytes in response to Ammonium nitrogen stress project. Publication: [Submerged macrophytes transcriptomics](https://www.mdpi.com/2223-7747/12/22/3875)
 - Soil metagenomics project analysis and consultation (*On-going*)
 
-## Past research projects
+## Past projects
 I have worked on various research projects and programs in different capacities, including as a project coordinator, project manager, data analyst, and research assistant. My specific contributions to each project are detailed in my curriculum vitae. Below is a list of these projects:
 - Phenotypic and morphometric differentiation of indigenous chickens from Kenya and other tropical countries augments perspectives for genetic resource improvement and conservation (2016)
 - Genetic Evidence of Middle East Respiratory Syndrome Coronavirus (MERS-Cov) and Widespread Seroprevalence among Camels in Kenya (2017).
