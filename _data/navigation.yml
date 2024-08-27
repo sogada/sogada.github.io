@@ -8,15 +8,15 @@ main:
 
   - title: "Research"
     url: /_pages/teaching_info/    
+
+  - title: "Experience"
+    url: /_pages/work-summary/
     
 #  - title: "Portfolio"
 #    url: /portfolio/
     
   - title: "CV"
     url: /files/ogada_stephen_cv.pdf
-
-  - title: "Work"
-    url: /_pages/work-summary/
 
 # - title: "Blog"
 #   url: /year-archive/
