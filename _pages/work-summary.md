@@ -5,7 +5,7 @@ collection: pages
 Here is a summary of my professional work.
 
 ## Current research projects
-Metagenomics analysis of dromedary camels
+**Metagenomic characterization of dromedary camels:** Microbiome profiling of dromedary camels of Kenya to detect bacteria and viruses that are present.
 
 
 ## Past research projects
