@@ -4,7 +4,11 @@ collection: pages
 ---
 Here is a summary of my professional work.
 
-## Research projects
+## Current research projects
+Metagenomics analysis of dromedary camels
+
+
+## Past research projects
 I have worked on various research projects and programs in different capacities, including as a project coordinator, project manager, data analyst, and research assistant. My specific contributions to each project are detailed in my curriculum vitae. Below is a list of these projects:
 - Phenotypic and morphometric differentiation of indigenous chickens from Kenya and other tropical countries augments perspectives for genetic resource improvement and conservation (2016)
 - Genetic Evidence of Middle East Respiratory Syndrome Coronavirus (MERS-Cov) and Widespread Seroprevalence among Camels in Kenya (2017).
