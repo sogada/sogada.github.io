@@ -2,7 +2,7 @@
 title: "Professional summary"
 collection: pages
 ---
-Here is a summary of my professional work.
+Here is a summary of my professional experience.
 
 ## Current projects
 **Dromedary camel metagenomics:** Microbiome profiling of dromedary camels of Kenya to detect bacteria and viruses that are present.
