@@ -21,7 +21,7 @@ repository               : "sogada/sogada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : https://media.licdn.com/dms/image/D4E03AQGfSNr56sB5vw/profile-displayphoto-shrink_800_800/0/1718197598570?e=1725494400&v=beta&t=2YvFWDhlZbDYNfd2n50WSzn6MBrnwZ4FfquCIjH-v3s
+  avatar           : https://media.licdn.com/dms/image/v2/D4E03AQGfSNr56sB5vw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718197598558?e=1733961600&v=beta&t=6biEz-604w7zL0EXhAkDqq8C6sdNbxvB85xn7aDjPSY
   name             : "Stephen Ogada"
   pronouns         : # example: "she/her"  
   bio              : "Data Analytics & Biological Research"
