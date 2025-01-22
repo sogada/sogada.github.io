@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ![illustration of dna](/images/dna.jpg){: .align-right width="300px"}
-Driven by a deep passion for data analytics, molecular biology, and bioinformatics, my focus lies at the intersection of evolutionary genomics, agricultural production, and One Health. My expertise spans various omics approaches, including transcriptomics and metagenomics, allowing me to tackle complex biological challenges and contribute to transformative advancements.
+Driven by a deep passion for data analytics and molecular biology, my focus lies at the intersection of One Health, agricultural production and evolutionary biology. My expertise spans various molecular biology techniques and omics approaches, including genomics, transcriptomics and metagenomics, allowing me to tackle complex biological challenges and contribute to transformative advancements.
 
 Beyond the lab, I excel in steering projects and programs toward success by designing and implementing strategies that ensure efficiency, effectiveness, and alignment with overarching goals. My enthusiasm for optimizing workflows and promoting collaborative environments enables me to drive projects to successful completion, ultimately making a tangible impact in scientific research and real-world applications.
 
