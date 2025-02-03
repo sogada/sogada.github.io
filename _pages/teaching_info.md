@@ -8,13 +8,16 @@ redirect_from:
 ---
 Here are my research interests across multiple disciplines, reflecting my dedication to advancing scientific knowledge and enhancing health and agricultural outcomes in diverse sectors.
 
-## Genomic surveillance and One Health
+## Genomic Surveillance for One Health
 Metagenomics characterization of gut microbiomes in poultry and camels.
 
-## Evolutionary genomics of livestock and wildlife
+## Diagnostics and Vaccine Development
+Rapid diagnostics Vaccinology research to develop vaccines for Avian Influenza, Pestivirus infection (bovine viral diarrhoea virus) and mastitis. 
+
+## Evolutionary Genomics of Livestock and Wildlife
 Genetic diversity and demographic history of indigenous chicken, indigenous Galla goats, domestic Japanese and wild harlequin quails.
 
-## Climate-Smart livestock production
+## Climate-Smart Livestock Production
 Heat tolerance studies on livestock in arid and semi-arid areas.
 
 ## MERL systems research
