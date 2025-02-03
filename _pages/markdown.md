@@ -8,6 +8,7 @@ Summary of my work covered by media or other sources.
 
 ## Posters
 [Elimination of Lymphatic Filariasis](/images/ntd-poster.jpg)
+[Hybridization detection in Wild Quails](/images/quail-poster.tif) 
 
 ## Photos
 ![me](/images/steve-quail-pic.jpg){: .align-right width="300px"}
