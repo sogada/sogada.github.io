@@ -7,7 +7,7 @@ Summary of my work covered by media or other sources.
 - [Standard Newspaper Interview](https://www.standardmedia.co.ke/health/health-science/article/2001333414/jkuat-study-to-revive-hope-for-abandoned-quail-farming "Standard Newspaper Interview")
 
 ## Posters
-![ntd](/images/ntd-poster.jpg){: .align-right width="300px"}
+[Elimination of Lymphatic Filariasis](/images/ntd-poster.jpg)
 
 ## Photos
 ![me](/images/steve-quail-pic.jpg){: .align-right width="300px"}
