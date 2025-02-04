@@ -12,7 +12,7 @@ Here are my research interests across multiple disciplines, reflecting my dedica
 Metagenomics characterization of gut microbiomes in poultry and camels.
 
 ## Diagnostics and Vaccine Development
-Rapid diagnostics Vaccinology research to develop vaccines for Avian Influenza, Pestivirus infection (bovine viral diarrhoea virus) and mastitis. 
+Rapid diagnostics and vaccinology research to develop vaccines for Avian Influenza, Pestivirus infection (bovine viral diarrhoea virus) and mastitis. 
 
 ## Evolutionary Genomics of Livestock and Wildlife
 Genetic diversity and demographic history of indigenous chicken, indigenous Galla goats, domestic Japanese and wild harlequin quails.
