@@ -22,6 +22,7 @@ Looking ahead, my passion for population genetics, evolutionary biology, and con
 Beyond my research, I teach and serve as a reviewer for the Journal of Agriculture, Science, and Technology. My teaching career began as a graduate teaching assistant during my Master’s and Ph.D. studies, and I later became a lecturer responsible for molecular biotechnology classes at the Jomo Kenyatta University of Agriculture and Technology.
 
 ## Professional work and competencies
+- Scientific Research
 - Project Coordination
 - Project Management
 - Capacity Building and Strengthening
