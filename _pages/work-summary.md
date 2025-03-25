@@ -9,7 +9,7 @@ Here is a summary of my professional experience. Check curriculum vitae (CV) for
 
 ## Collaboration projects 
 - Bioinformatics analysis and consultation in the genomics of Doum palm project. Publication: [Doum Palm genomics](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2022.762202/full)
-- Bioinformatics consulting in the RNA-Seq Analysis of Macrophytes in response to Ammonium nitrogen stress project. Publication: [Submerged macrophytes transcriptomics](https://www.mdpi.com/2223-7747/12/22/3875)
+- Bioinformatics analysis of RNA-Seq data of Macrophytes in response to Ammonium nitrogen stress project. Publication: [Submerged macrophytes transcriptomics](https://www.mdpi.com/2223-7747/12/22/3875)
 - Soil metagenomics project analysis and consultation (*On-going*)
 
 ## Past projects
