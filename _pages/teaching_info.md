@@ -9,7 +9,7 @@ redirect_from:
 Here are my research interests across multiple disciplines, reflecting my dedication to advancing scientific knowledge and enhancing health and agricultural outcomes in diverse sectors.
 
 ## Genomic Surveillance for One Health
-This research focuses on using genomic tools to monitor, understand, and mitigate the risks of infectious diseases at the interface of human, animal, and environmental health. By integrating cutting-edge genomics with epidemiology and bioinformatics, the aim is to enhance disease surveillance, antimicrobial resistance tracking, and the development of targeted interventions
+This research focuses on using genomic tools to monitor, understand, and mitigate the risks of infectious diseases at the interface of human, animal, and environmental health. By integrating cutting-edge genomics with epidemiology and bioinformatics, the aim is to enhance disease surveillance, antimicrobial resistance tracking, and the development of targeted interventions.
 
 ## Diagnostics and Vaccine Development
 Focusing on developing innovative diagnostic tools and vaccines to enhance disease detection, prevention, and control in livestock. By integrating molecular biology, immunology, and bioinformatics, we aim to improve animal health, reduce disease burden, and support sustainable livestock production.
